@@ -24,8 +24,10 @@
 - “How awesome is vim”
 - “You can’t just put anything in there”
 
-### quotes I haven't chosen a trigger for
+### (mention), get out, leave
 - “I’m gonna go to the back of the room where I belong”
+
+### quotes I haven't chosen a trigger for
 - “It doesn’t have to be with me, you can do it at your respective houses”
 - “No, I would never ever do this”
 - “I can occasionally be nice”
